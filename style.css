@@ -1,0 +1,43 @@
+html{
+    background-color:rgb(197, 197, 193);
+}
+
+h1{
+    font-style:bold,italic;
+}
+
+.box0{
+    background-color:rgb(187, 173, 228);
+    border:groove;
+    border-width: 20px;
+    text-align: justify;
+    padding: 20px 20px;
+    width: 10%;
+    font-style: oblique;
+    height: 290px;
+    width: 290px;
+    font-size: 23px;
+
+}
+
+.box1{
+    background-color: rgb(161, 103, 117);
+    border:groove rgb(107, 36, 36);
+    margin-left: 20%;
+    border-width: 20px 20px;
+    text-align: justify;
+    padding: 70px;
+    width: 220px;
+    height: 220px;
+}
+
+.box2{
+    background-color: rgb(36, 128, 134);
+    border:groove black;
+    border-width: 20px;
+    text-align: justify;
+    padding: 70px;
+    width: 220px;
+    height: 220px;
+    
+}
